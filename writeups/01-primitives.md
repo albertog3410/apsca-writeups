@@ -5,4 +5,6 @@
 ## Concept: Primitive Types
 
 ### Context 
-During these past few weeks in APCSA, I learned how to use **Primitive Types** to store certain kinds of data. Certain kinds of data include numbers, true and false statements, numbers and decimals. As well as manipulate these values using arithmetic expressions. I also learned how to change the type of data i
+In my first few weeks of APCSA, I learned how to use the basics of storing data using **Primitive Types** like numbers, decimals, and true/false statements (booleans). I also learned how to change these values using arithmetic expressions and how to switch a value from one data type to another using **Type Casting**. At first, I found these lessons to be difficult, but as I took notes while doing assigned courses on <a href ="https://courses.projectstem.org/">projectstem.org</a> strengthened my understanding on the unit. 
+
+### 
