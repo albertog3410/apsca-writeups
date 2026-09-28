@@ -70,7 +70,11 @@ class U1_L5_Activity_One
 
 
 ### Takeaways
-From this course, I learned more about concepts of arithmetic equations than I expected to learn.
+From this course, I learned more about concepts of arithmetic equations than I expected to learn. Not just about Java, but also on how I should process these next units so I won't remain stuck. 
+
+* I learned how to use ``%`` in order to find the remainder of a division equation. Even though I have seen ``%`` used in arthimatic problems before, I never bothered to learn more about it. Now I see the use for this operator symbol, not just in coding but in coding and problem solving.
+* I learned to **Pay Attention to Detail** whenever I am learning something new. Whether it is something that you don't think it important, even one line of code serves a purpose in the entire system. Which is something I learned when discovering ``%``.
+* **Problem Decomposition** - When solving the lesson about mod, I had to take my time and picture how the math would have to play out in order for the second number in the three digit integer to be outputted. If I hadn't done this, I probably would have been stuck for a longer time.
 
 
 
